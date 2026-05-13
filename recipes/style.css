@@ -1,0 +1,33 @@
+body {
+    background: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+}
+
+
+.image {
+    text-align: center;
+    margin: 50px;
+}
+
+.para {
+    margin: 50px;
+}
+
+.ingredients {
+    width: 900px;
+    padding: 15px;
+    background: lightsalmon;
+    border: 1px solid slateblue;
+    margin: auto;
+}
+
+.steps {
+    background: rgb(241, 241, 241);
+    padding: 15px;
+    margin: 50px;
+}
+
+.main-heading {
+    text-align: center;
+}
